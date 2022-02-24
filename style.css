@@ -1,0 +1,65 @@
+body
+{
+    background-color: azure; 
+    font-family: Arial;
+}
+
+.content
+{
+    width: 50%;
+    padding:auto;
+    padding-left: 250px;
+    margin:auto;
+}
+
+.bigTextDiv
+{
+    width:75%;
+    height:auto;
+    align-content: center;
+}
+
+.bigText 
+{ 
+     text-align: center;
+     font-size: 40px;
+}
+
+.img 
+{
+    width:75%;
+    height:auto; 
+    align-content: center;
+}
+
+.btn
+{
+    width:75%;
+    height:50px;
+    background-color:cornsilk;
+    align-content: center;
+    font-size: 18px;
+}
+ 
+.txtBox
+{
+    width:75%;
+    height:35px;
+    font-size: 18px;
+    padding:8px;
+} 
+ 
+.btn2
+{
+    width:77%;
+    height:50px;
+    background-color: beige;
+    align-content: center;
+    font-size: 18px;
+}
+
+.txtAtBtm
+{
+    text-decoration: none;
+    font-size:18px;
+}
