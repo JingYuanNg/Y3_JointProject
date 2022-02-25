@@ -1,0 +1,1 @@
+Start by running home.php
