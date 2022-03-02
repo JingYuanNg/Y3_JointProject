@@ -69,6 +69,10 @@ function validatePassword($password, $confirmPassword)
     {
         return "Both password are <strong> not same</strong> !";
     }
+    else if (strlen($password)< 8)
+    {
+        return "<strong>Password</strong> must contain at least 8 characters!";
+    }
 }
 
 //fullName 

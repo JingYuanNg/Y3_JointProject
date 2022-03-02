@@ -184,7 +184,7 @@
             </div>
              
             <!-- username --> 
-            <label class="txtBox">Username (unachangeable) :</label>
+            <label class="txtBox">Username (unchangeable) :</label>
             <br>
             <input type="text" class="txtBox" id="username" name="username" value="<?php echo $username?>" readonly/>
               

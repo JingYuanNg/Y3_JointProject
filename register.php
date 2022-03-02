@@ -150,6 +150,8 @@
             <br><br>
             
             <!-- dateOfBirth --> 
+            <label class="txtBox">Date Of Birth :</label>
+            <br>
             <input type="date" class="txtBox" id="dateOfBirth" name="dateOfBirth" required="required"/>
             
             <br><br>
